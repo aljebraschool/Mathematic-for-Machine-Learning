@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains resources and notes from the DeepLearning.AI's Mathematics for Data Science and Machine Learning Specialization, completed by [Your Name]. The specialization is designed to provide a solid foundation in the essential mathematics needed for data science and machine learning.
+This repository contains resources and notes from the DeepLearning.AI's Mathematics for Data Science and Machine Learning Specialization. The specialization is designed to provide a solid foundation in the essential mathematics needed for data science and machine learning.
 
 ## Course Structure
 
