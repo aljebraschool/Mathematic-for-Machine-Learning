@@ -12,10 +12,10 @@ The specialization consists of three courses:
    - Vectors and matrices
    - Matrix multiplication
    - Eigenvalues and eigenvectors
-   - Singular Value Decomposition (SVD)
+   
 
 2. **Calculus for Machine Learning and Data Science**
-   - Differentiation and integration
+   - Differentiation 
    - Partial derivatives
    - Gradient descent
 
