@@ -6,7 +6,7 @@ This repository contains resources and notes from the DeepLearning.AI's Mathemat
 
 ## Course Structure
 
-The specialization consists of four courses:
+The specialization consists of three courses:
 
 1. **Linear Algebra for Machine Learning and Data Science**
    - Vectors and matrices
