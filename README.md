@@ -44,7 +44,7 @@ The primary purpose of this repository is to serve as a personal reference and a
 
 - **Cloning the Repository**: You can clone this repository to your local machine using the following command:
   ```bash
-  git clone https://github.com/yourusername/Mathematics-for-Data-Science-and-Machine-Learning.git
+  git clone https://github.com/aljebraschool/Mathematics-for-Machine-Learning.git
   ```
 
 - **Navigating the Repository**: The repository is organized into directories corresponding to each course. Within each directory, you'll find notes, code examples, and assignment solutions.
@@ -56,7 +56,3 @@ I would like to thank Luis Serrano and DeepLearning.AI for creating this compreh
 ## Contact
 
 For any questions or suggestions, please feel free to contact me at [aljebraschoolofthought@gmail.com].
-
----
-
-Feel free to modify this template to better fit your needs and personal preferences.
